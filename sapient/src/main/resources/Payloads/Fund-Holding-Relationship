@@ -1,0 +1,39 @@
+{
+  "fundHoldingRelationships": [
+    {
+      "fund": "F1",
+      "holding": "H1",
+      "percentage": 100
+    },
+    {
+      "fund": "F1",
+      "holding": "H2",
+      "percentage": 100
+    },
+    {
+      "fund": "F1",
+      "holding": "H4",
+      "percentage": 100
+    },
+    {
+      "fund": "F2",
+      "holding": "H3",
+      "percentage": 100
+    },
+    {
+      "fund": "F2",
+      "holding": "H1",
+      "percentage": 100
+    },
+    {
+      "fund": "F3",
+      "holding": "H1",
+      "percentage": 100
+    },
+    {
+      "fund": "F3",
+      "holding": "H4",
+      "percentage": 100
+    }
+  ]
+}

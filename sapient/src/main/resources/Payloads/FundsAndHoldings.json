@@ -1,0 +1,31 @@
+{
+  "funds": [
+    {
+      "name": "F1"
+    },
+    {
+      "name": "F2"
+    },
+    {
+      "name": "F3"
+    }
+  ],
+  "holdings": [
+    {
+      "name": "H1",
+      "value": 10.0
+    },
+    {
+      "name": "H2",
+      "value": 20.0
+    },
+    {
+      "name": "H3",
+      "value": 15.0
+    },
+    {
+      "name": "H4",
+      "value": 10.0
+    }
+  ]
+}

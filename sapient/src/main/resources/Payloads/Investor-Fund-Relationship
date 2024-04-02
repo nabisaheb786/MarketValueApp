@@ -1,0 +1,20 @@
+{
+  "investorFundRelationships": [
+    {
+      "investor": "Inv1",
+      "fund": "F1"
+    },
+    {
+      "investor": "Inv1",
+      "fund": "F2"
+    },
+    {
+      "investor": "Inv2",
+      "fund": "F2"
+    },
+    {
+      "investor": "Inv2",
+      "fund": "F3"
+    }
+  ]
+}
